@@ -1,48 +1,69 @@
-# Task 3 — The Bookmark Cafe Website
+# The Bookmark Cafe — Local Business Website
 
-A responsive HTML/CSS/JavaScript local-business website concept for **The Bookmark Cafe, Kalyan**.
+A modern, responsive website concept created for **The Bookmark Cafe, Kalyan** as part of **Future Interns – Full Stack Web Development Task 3**.
 
-## Why this business?
-The Bookmark Cafe is a real local cafe in Kalyan. Current public listings show a 4.4 rating, a menu covering bakery/Italian/Continental/Chinese/momos/pasta/shakes/coffee, and an established local customer presence. That makes it a good pitch opportunity: a dedicated website can put the menu, location, contact CTA and brand story in one place.
+The goal of this project is to give a local café a professional online presence where customers can discover the café, explore the menu, find the location and contact the business easily.
 
-## Features
-- Responsive mobile/desktop layout
-- Sticky navigation + mobile menu
-- Hero section with clear CTA
-- Brand/story section
-- Filterable menu
-- Gallery/vibe section
-- Call and directions CTAs
-- Map-style location card
-- Scroll reveal animations
-- No framework or build step required
+## 🌐 Live Website
 
-## Run locally
-1. Extract this folder.
-2. Open `index.html` in a browser.
-3. For a cleaner local server, use VS Code Live Server.
+### [Visit The Bookmark Cafe Website](https://prasad872005.github.io/FUTURE_FS_03/)
 
-## Deploy
-This is a static website, so it can be deployed to:
-- GitHub Pages
-- Netlify
-- Vercel
+## 💻 GitHub Repository
 
-## Important before pitching
-Confirm the cafe's:
-- exact current opening hours
-- phone number
-- Instagram URL
-- final menu/prices
-- real photographs
-- permission to use their logo/brand assets
+### [View Source Code](https://github.com/prasad872005/FUTURE_FS_03)
 
-Replace the Unsplash demo images in `styles.css` with approved cafe photos before presenting it as a final client website.
+---
 
-## Suggested Git commands
-git init
-git add .
-git commit -m "Build local business website for The Bookmark Cafe"
-git branch -M main
-git remote add origin YOUR_GITHUB_REPO_URL
-git push -u origin main
+## 📸 Project Preview
+
+The website includes a clean café-focused design with:
+
+- Hero section
+- Café story
+- Interactive menu
+- Food categories
+- Gallery
+- Contact information
+- Location and directions
+- Mobile navigation
+- Clear call-to-action buttons
+
+---
+
+## ✨ Features
+
+- Responsive design for desktop, tablet and mobile
+- Modern café-focused UI
+- Interactive menu category filtering
+- Mobile-friendly navigation
+- Café story / about section
+- Food and café gallery
+- Contact and phone CTA
+- Google Maps directions
+- Business location section
+- Scroll animations
+- GitHub Pages deployment
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5** — Website structure
+- **CSS3** — Styling and responsive design
+- **JavaScript** — Interactivity and menu filtering
+- **Git** — Version control
+- **GitHub** — Source code hosting
+- **GitHub Pages** — Website deployment
+
+---
+
+## 📂 Project Structure
+
+```text
+FUTURE_FS_03/
+│
+├── index.html
+├── styles.css
+├── script.js
+├── README.md
+└── PITCH.md
